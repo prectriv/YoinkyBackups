@@ -1,0 +1,24 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: "Twitch Chat Integration"
+	last_seen: { dim: "minecraft:overworld", x: 1732, y: 140, z: -266, time: 1721008153716L, xRot: 37.05001f, yRot: 17.39997f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: 1588, y: 123, z: -170, time: 1720993355370L, xRot: 23.99993f, yRot: 90.60028f }
+		{ dim: "minecraft:overworld", x: 1371, y: 72, z: -264, time: 1720993553990L, xRot: 30.660292f, yRot: 11.399811f }
+		{ dim: "minecraft:overworld", x: -1550, y: 60, z: 78, time: 1720993771516L, xRot: -3.9000347f, yRot: 176.17078f }
+		{ dim: "minecraft:overworld", x: 1748, y: 97, z: -308, time: 1720999903158L, xRot: 43.500004f, yRot: 63.75067f }
+		{ dim: "minecraft:overworld", x: 1759, y: 3, z: -369, time: 1721002258166L, xRot: 18.450396f, yRot: -153.58667f }
+		{ dim: "minecraft:overworld", x: 1731, y: 135, z: -270, time: 1721003638310L, xRot: 4.9499774f, yRot: 10.173828f }
+		{ dim: "minecraft:overworld", x: -1814, y: 56, z: 32, time: 1721004409966L, xRot: 14.249933f, yRot: -37.135193f }
+		{ dim: "minecraft:overworld", x: 1727, y: 145, z: -267, time: 1721005130071L, xRot: 54.29992f, yRot: -99.450066f }
+		{ dim: "minecraft:overworld", x: 1807, y: 132, z: -51, time: 1721006201128L, xRot: 2.6999536f, yRot: 126.04242f }
+		{ dim: "minecraft:overworld", x: -108, y: 81, z: 352, time: 1721006267874L, xRot: 11.249596f, yRot: 80.402084f }
+	]
+	homes: {
+		home: { dim: "minecraft:overworld", x: 1741, y: 132, z: -271, time: 1720898833480L, xRot: 0.0f, yRot: -134.99998f }
+	}
+	kit_use_times: { }
+}
